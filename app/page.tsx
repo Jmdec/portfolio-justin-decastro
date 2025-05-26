@@ -293,7 +293,7 @@ export default function Portfolio() {
     },
     {
       title: "S5 Logistics Platform",
-      description: "Advanced logistics management system with shipment tracking, inventory control, and client portal.",
+      description: "Advanced logistics management system with shipment tracking, inventory control and maps integration.",
       technologies: ["Next.js", "React", "Tailwind CSS", "API Integration", "Dashboard"],
       status: "LIVE",
       color: "from-indigo-500 to-purple-600",
