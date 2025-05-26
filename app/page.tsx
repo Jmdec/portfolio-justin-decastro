@@ -250,7 +250,7 @@ export default function Portfolio() {
     {
       title: "ABIC Manpower Solutions",
       description:
-        "Comprehensive manpower management system with employee tracking, payroll integration, and client portal functionality.",
+        "This system is tailored to streamline the hiring process for businesses by managing job openings, candidates, interview scheduling, and applicant tracking. It ensures that HR teams can efficiently manage the entire recruitment lifecycle—from posting job ads to tracking candidate progress and scheduling interviews—while providing a clear and organized calendar interface for all recruitment activities.",
       technologies: ["Laravel", "PHP", "MySQL", "Bootstrap", "JavaScript"],
       status: "LIVE",
       color: "from-cyan-500 to-blue-600",
